@@ -1,8 +1,8 @@
-- 👋 Opa eu sou o @proverawr
-- 👀 Eu tenho interesse em Linux 
-- 🌱 Estou aprendendo python
-- 📫 Fala comigo pelo meu discord:proverawr
-- 😄 Pronomes: todos
+- 👋 Opa eu sou o @proverawr            - 👋 heya im @proverawr
+- 👀 Eu tenho interesse em Linux        - 👀 i got interest in linux
+- 🌱 Estou aprendendo python            - 🌱 currently learning python
+- 📫 meu discord é:proverawr            - 📫 my discord is:proverawr
+- 😄 Pronomes: todos                    - 😄 Pronouns: they/it
 
 <!---
 CoffeForGuxta/CoffeForGuxta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
