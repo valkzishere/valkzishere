@@ -1,7 +1,7 @@
-- 👋 Opa eu sou o @valkzishere
+- 👋 Opa eu sou o @proverawr
 - 👀 Eu tenho interesse em Linux 
 - 🌱 Estou aprendendo python
-- 📫 Fala comigo pelo meu discord:valkzz.git
+- 📫 Fala comigo pelo meu discord:proverawr
 - 😄 Pronomes: todos
 
 <!---
